@@ -10,11 +10,11 @@
   },
   "dependencies": {
     "rxjs": "^6.5.3",
-    "ts-loader": "^6.1.2",
+    "ts-loader": "^9.4.2",
     "typescript": "^3.6.3",
     "webpack-dev-server": "^3.8.1"
   },
   "devDependencies": {
-    "webpack-cli": "^3.3.9"
+    "webpack-cli": "^5.0.1"
   }
 }
